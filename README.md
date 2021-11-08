@@ -1,1 +1,0 @@
-# crypto-gift-card-standards
